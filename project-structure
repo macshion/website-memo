@@ -1,0 +1,11 @@
+extension/
+├── manifest.json
+├── background.js
+├── sidebar/
+│   ├── sidebar.html
+│   ├── sidebar.css
+│   └── sidebar.js
+└── icons/
+    ├── icon16.svg
+    ├── icon48.svg
+    └── icon128.svg 
